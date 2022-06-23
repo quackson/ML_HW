@@ -1,0 +1,55 @@
+Simulation done on 2022.6.17-21.20.
+Start time: 2022-06-17 21:20:48.819616
+-----------------------------
+P_final: 499.9999999999999
+P_hidden: 100.0
+b_lr: None
+dt: 1.0
+f_lr: (0.21, 0.21, 0.21)
+g_a: 0
+g_b: 0.6
+g_d: 0.6
+g_l: 0.1
+initial_test: False
+integration_time: 1
+integration_time_test: 1
+k_B: 0.8571428571428572
+k_D: 0.8571428571428572
+k_I: 1.4285714285714286
+l_f_phase: 2
+l_f_phase_test: 2
+l_t_phase: 2
+lambda_max: 0.2
+mem: 1
+n: (2000, 500, 10)
+n_epochs: 60
+n_full_test: 10000
+n_quick_test: 100
+n_training_examples: 60000
+noisy_symmetric_weights: False
+nonspiking_mode: True
+plot_eigvals: False
+record_backprop_angle: False
+record_eigvals: False
+record_loss: True
+record_matrices: False
+record_phase_times: False
+record_plateau_times: False
+record_training_error: True
+record_training_labels: True
+record_voltages: False
+tau_l: 10.0
+tau_s: 3.0
+update_feedback_weights: False
+use_apical_conductance: False
+use_backprop: False
+use_broadcast: True
+use_conductances: False
+use_feedback_bias: False
+use_rand_phase_lengths: False
+use_rand_plateau_times: False
+use_sparse_feedback: False
+use_spiking_feedback: False
+use_spiking_feedforward: False
+use_symmetric_weights: False
+use_weight_optimization: True
